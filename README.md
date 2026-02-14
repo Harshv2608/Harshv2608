@@ -1,3 +1,8 @@
+<div align="center">
+  <h3>✨ "Strong fundamentals first. Optimization next. Scale later." ✨</h3>
+</div>
+
+---
 # 💫 About Me:
 I’m a developer focused on building impactful applications and strengthening my fundamentals in algorithms, web development, and machine learning. I thrive on solving problems and creating systems that are both functional and elegant.<br><br>🔭 I’m currently working on LeetCode problem solutions and web applications like interactive games and recommendation systems.<br>🌱 I’m currently learning advanced JavaScript, backend integrations, and practical machine learning pipelines.<br>👯 I’m looking to collaborate on full-stack web apps, algorithmic challenges, and ML deployment projects.<br>💬 Ask me about Data Structures & Algorithms, frontend + backend integration, and machine learning basics.
 
@@ -11,9 +16,6 @@ I’m a developer focused on building impactful applications and strengthening m
 ![](https://github-readme-stats.vercel.app/api?username=Harshv2608&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Harshv2608&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshv2608&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harshv2608&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Harshv2608&icon=5&color=0)](https://visitcount.itsvg.in)
