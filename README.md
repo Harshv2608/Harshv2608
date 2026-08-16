@@ -2,7 +2,7 @@
   <h1>Harsh Vardhan</h1>
   
   <a href="https://github.com/Harshv2608">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%26+Systems;DSA+%26+CS+Fundamentals;Building+Real-World+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%26+System+Design;DSA+%26+CS+Fundamentals;Building+Real-World+Software" alt="Typing SVG" />
   </a>
 
   <p><i>Building reliable applications from the metal up to the cloud.</i></p>
@@ -70,6 +70,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=json&logoColor=white)
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -78,6 +79,7 @@
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
@@ -96,10 +98,6 @@
 
 ## 📈 GitHub Activity
 
-### ⚡ Recent Contributions
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
-
 <br>
 
 <div align="center">
@@ -107,24 +105,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshv2608&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshv2608/Harshv2608/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshv2608/Harshv2608/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Harshv2608/Harshv2608/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 ---
 
 ## 🧭 Currently Exploring
 
 - **Systems & Backend Engineering:** Bridging low-level execution (C/C++) with high-level web APIs (Node.js).
-- **Production Architecture:** Shifting from local prototypes to cloud-deployed, scalable, and observable systems.
+- **Core CS Fundamentals:** Deepening knowledge in Operating Systems (OS), Computer Networks (CN), DBMS, and Object-Oriented Programming (OOPs).
+- **System Design & Architecture:** Shifting from local prototypes to cloud-deployed, scalable, and observable systems with an emphasis on production architecture.
 - **Advanced DSA & Algorithms:** Deepening knowledge in graph theory, dynamic programming, and state optimization via consistent [LeetCode practice](https://github.com/Harshv2608/Leetcode-Solutions).
 
 <div align="center">
   <br>
-  <p><i>Visitor Count</i></p>
-  <img src="https://visitcount.itsvg.in/api?id=Harshv2608&icon=5&color=0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Harshv2608&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
