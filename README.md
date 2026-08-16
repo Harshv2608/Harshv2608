@@ -1,23 +1,130 @@
 <div align="center">
-  <h3>✨ "Strong fundamentals first. Optimization next. Scale later." ✨</h3>
+  <h1>Harsh Vardhan</h1>
+  
+  <a href="https://github.com/Harshv2608">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%26+Systems;DSA+%26+CS+Fundamentals;Building+Real-World+Software" alt="Typing SVG" />
+  </a>
+
+  <p><i>Building reliable applications from the metal up to the cloud.</i></p>
+  
+  <div>
+    <a href="https://www.linkedin.com/in/harsh-vardhan2608/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:hv537778@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </div>
 </div>
 
 ---
-# 💫 About Me:
-I’m a developer focused on building impactful applications and strengthening my fundamentals in algorithms, web development, and machine learning. I thrive on solving problems and creating systems that are both functional and elegant.<br><br>🔭 I’m currently working on LeetCode problem solutions and web applications like interactive games and recommendation systems.<br>🌱 I’m currently learning advanced JavaScript, backend integrations, and practical machine learning pipelines.<br>👯 I’m looking to collaborate on full-stack web apps, algorithmic challenges, and ML deployment projects.<br>💬 Ask me about Data Structures & Algorithms, frontend + backend integration, and machine learning basics.
 
+## 📐 Engineering Principles
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/harsh-vardhan2608) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hv537778@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harshv2608&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Harshv2608&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshv2608&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+> **Strong fundamentals first.**  
+> Understand the abstraction before optimizing it.
+> 
+> **Architecture dictates scalability.**  
+> Build systems that are observable, testable, and maintainable.
+> 
+> **State management is everything.**  
+> Whether in a database or a UI component, predictable state is predictable software.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Harshv2608&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Engineering
+
+### [Adaptive CPU Scheduler](https://github.com/Harshv2608/Adaptive-CPU-Scheduler)
+*Native scheduling engine with a Node.js execution bridge and interactive visualization.*
+- **Engineering:** Designed an execution pipeline where a Next.js frontend communicates via a Node.js API to a native C process executing CPU scheduling algorithms, returning real-time execution traces.
+- **Stack:** C, TypeScript, Node.js, Next.js
+
+### [Food Distribution Platform](https://github.com/Harshv2608/food-distribution-app)
+*Geospatial matching system connecting food surplus with optimal recipients.*
+- **Engineering:** Implemented a deterministic matching engine with strict transactional lifecycle locks, automated validation, and a scalable backend architecture for geospatial data queries.
+- **Stack:** TypeScript, Next.js, Node.js, Database Systems
+
+### [Vanilla JS Chess Engine](https://github.com/Harshv2608/Chess_game)
+*Fully rule-compliant chess engine built from scratch with zero dependencies.*
+- **Engineering:** Implemented complex state management, algorithmic move validation (castling, en passant, checkmate), and structured board state lifecycle. 
+- **Stack:** JavaScript, HTML5, CSS3
+
+### [FinDoc AI](https://github.com/Harshv2608/findoc-ai)
+*Automated data extraction pipeline for unstructured financial documents.*
+- **Engineering:** Built an ingestion pipeline handling PDF processing → Gemini LLM information extraction → structured output → data persistence → usable Streamlit interface.
+- **Stack:** Python, Streamlit, Google Gemini AI
+
+---
+
+## 💻 Technical Arsenal
+
+### Core Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+### Cloud / DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+### Data / ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+---
+
+## 📈 GitHub Activity
+
+### ⚡ Recent Contributions
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshv2608&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshv2608&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshv2608/Harshv2608/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshv2608/Harshv2608/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Harshv2608/Harshv2608/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 🧭 Currently Exploring
+
+- **Systems & Backend Engineering:** Bridging low-level execution (C/C++) with high-level web APIs (Node.js).
+- **Production Architecture:** Shifting from local prototypes to cloud-deployed, scalable, and observable systems.
+- **Advanced DSA & Algorithms:** Deepening knowledge in graph theory, dynamic programming, and state optimization via consistent [LeetCode practice](https://github.com/Harshv2608/Leetcode-Solutions).
+
+<div align="center">
+  <br>
+  <p><i>Visitor Count</i></p>
+  <img src="https://visitcount.itsvg.in/api?id=Harshv2608&icon=5&color=0" alt="Profile Views" />
+</div>
